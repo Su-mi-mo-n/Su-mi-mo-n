@@ -1,7 +1,7 @@
 # スキル(実際にアプリケーション開発した際に使ったスキル)
 OS：Windows,UNIX系OS(Ubuntu)<br>
 言語：PHP<br>
-データベース：MySQL(MariaDB)<br>
+ミドルウェア：MySQL(MariaDB)、Apache HTTPd <br>
 フレームワーク：Laravel<br>
 パブリッククラウド：AWS<br>
 仮想化技術：Docker<br>
