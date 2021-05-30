@@ -1,5 +1,5 @@
 # スキル(実際にアプリケーション開発した際に使ったスキル)
-OS：Windows,UNIX系OS(Ubuntu)
+OS：Windows,UNIX系OS(Ubuntu)<br>
 言語：PHP,Java
 データベース：MySQL(MariaDB)
 フレームワーク：Laravel
