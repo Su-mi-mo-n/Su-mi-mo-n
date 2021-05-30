@@ -1,5 +1,5 @@
 # スキル(実際にWebアプリケーションやシステム開発した際に使ったスキル)
-OS：Windows,UNIX系OS(Ubuntu)<br>
+OS：Windows、UNIX系OS(Ubuntu)<br>
 言語：PHP、JavaScript、MQL4<br>
 ミドルウェア：MySQL(MariaDB)、Apache HTTPd <br>
 フレームワーク：Laravel<br>
