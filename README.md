@@ -5,7 +5,7 @@ OS：Windows、UNIX系OS(Ubuntu)<br>
 フレームワーク：Laravel<br>
 パブリッククラウド：AWS<br>
 仮想化技術：Docker<br>
-バージョン管理：Github<br>
+バージョン管理：Git、Github<br>
 # スキル(実際に開発は行ったことはないが、学習し知識があるもの)
 言語：Python、C++、Go
 # 数値代入計算機の開発
