@@ -44,7 +44,7 @@ Mojyuroリポジトリのフォルダの中のファイルをlocal環境で開�
 【概要】<br>
 簡単なゲーム開発の経験があります。内容はテトリスに似たゲームです。<br>
 【開発技術】<br>
-言語：JavaScript,HTML<br>
+言語：JavaScript、HTML<br>
 【作業期間】<br>
 1週間<br>
 
