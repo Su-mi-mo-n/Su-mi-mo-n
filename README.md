@@ -1,4 +1,4 @@
-# スキル(実際にWebアプリケーションやシステム開発した際に使用したスキル)
+# スキル
 OS：Windows、UNIX系OS(Ubuntu)<br>
 言語：PHP、JavaScript、MQL4、HTML、CSS<br>
 ミドルウェア：MySQL(MariaDB)、Apache HTTPd <br>
