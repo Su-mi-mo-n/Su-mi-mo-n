@@ -18,7 +18,6 @@ OS：Windows、UNIX系OS(Ubuntu)<br>
 【開発技術】<br>
 言語：PHP<br>
 ミドルウェア：MySQL、Apache HTTPd<br>
-フレームワーク：Laravel<br>
 パブリッククラウド：AWS<br>
 仮想化技術：Docker<br>
 バージョン管理：Github<br>
